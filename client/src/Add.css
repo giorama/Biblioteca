@@ -1,0 +1,13 @@
+label {
+    padding-right: 10px;
+}
+
+label,
+input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+div.form {
+    display: table-row;
+}

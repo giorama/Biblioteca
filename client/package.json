@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+  "proxy":"https://giorama-fictional-goggles-q44jppqv76r3xvjq-3000.preview.app.github.dev:3001",
   "browserslist": {
     "production": [
       ">0.2%",

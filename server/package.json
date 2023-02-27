@@ -4,7 +4,7 @@
   "description": "We want to create a Library where user can share their books with other users",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,7 @@
   },
   "homepage": "https://github.com/giorama/Biblioteca#readme",
   "dependencies": {
-    "express": "^4.18.2"
-  },
-  "scripts": {
-    "start": "node server/server.js"
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
   }
 }
