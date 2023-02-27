@@ -18,5 +18,8 @@
   "homepage": "https://github.com/giorama/Biblioteca#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server/server.js"
   }
 }
