@@ -1,0 +1,22 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "description": "We want to create a Library where user can share their books with other users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giorama/Biblioteca.git"
+  },
+  "author": "Giovanni Ramacciotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giorama/Biblioteca/issues"
+  },
+  "homepage": "https://github.com/giorama/Biblioteca#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
